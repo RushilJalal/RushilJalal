@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RushilJalal
+- 👋 Hi, I’m Rushil Jalal
 - 👀 I’m interested in learning and trying new stuff out
 - 🌱 I’m currently learning Python🐍
 - 💞️ I’m looking to collaborate on nothing yet
