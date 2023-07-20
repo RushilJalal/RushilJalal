@@ -5,8 +5,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,git,linux,vscode,codepen" />
   </a>
 </p>
-<br>
-  
+
   ## Follow me!
   <a href="https://discordapp.com/users/527347686408716289">
     <img src="https://skillicons.dev/icons?i=discord" />
