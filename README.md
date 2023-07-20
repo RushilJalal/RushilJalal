@@ -1,5 +1,5 @@
-## Hey there! 👋 <br> 
-<strong>I'm Rushil</strong> -I'm a web developer and a college student following The Odin Project
+# Hey there! 👋 <br> 
+<strong>I'm Rushil</strong> -Web developer, college student following The Odin Project
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,linux,vscode,codepen" />
@@ -7,6 +7,7 @@
 </p>
 
   ## Follow me!
+  <p align="center">
   <a href="https://discordapp.com/users/527347686408716289">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
