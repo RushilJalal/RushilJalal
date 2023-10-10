@@ -3,19 +3,16 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,linux,vscode,codepen" />
-  </a>
-</p>
-
-  ## Follow me!
-  <p align="center">
-  <a href="https://discordapp.com/users/527347686408716289">
+    <a href="https://discordapp.com/users/527347686408716289">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://linkedin.com/in/rushiljalal">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  </a>
 </p>
 
+# My Badges <br>
 [![An image of @rushiljalal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushiljalal)](https://holopin.io/@rushiljalal)
 <!---
 RushilJalal/RushilJalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
