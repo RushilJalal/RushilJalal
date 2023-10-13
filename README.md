@@ -12,7 +12,6 @@
   </a>
 </p>
 
-# My Badges <br>
 [![An image of @rushiljalal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushiljalal)](https://holopin.io/@rushiljalal)
 <!---
 RushilJalal/RushilJalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
