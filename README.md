@@ -3,11 +3,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,npm,vite,c,cs,java,git,linux,bash,vscode,codepen" />
-    <a href="https://discordapp.com/users/527347686408716289">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://linkedin.com/in/rushiljalal">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   </a>
 </p>
