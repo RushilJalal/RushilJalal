@@ -2,7 +2,7 @@
 ### <strong>I'm Rushil</strong> - Web developer, college student following The Odin Project
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,npm,vite,c,cs,java,git,linux,bash,vscode,codepen" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,npm,vite,c,cs,java,git,linux,bash,vscode" />
   </a>
   </a>
 </p>
