@@ -2,7 +2,7 @@
 ## <strong>I'm Rushil</strong> - Web developer, 2nd year college student
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,npm,vite,c,cs,java,git,linux,bash,vscode" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,npm,vite,c,cs,oracle,java,git,linux,bash,vscode" />
   </a>
   </a>
 </p>
