@@ -1,5 +1,5 @@
 # Hey there! 👋 <br> 
-## <strong>I'm Rushil</strong> - Web developer, college student following The Odin Project
+## <strong>I'm Rushil</strong> - Web developer, 2nd year college student
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,npm,vite,c,cs,java,git,linux,bash,vscode" />
