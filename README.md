@@ -5,7 +5,7 @@
 </p>
     <h2>Tools/Libraries</h2>
     <p align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,postman,zustand,redux,authjs,chartjs,npm,bun,vite,git" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,postman,zustand,redux,authjs,chartjs,npm,bun,vite,vercel,git" />
     </p>
   </a>
 </p>
