@@ -1,9 +1,12 @@
 # Hey there! 👋 <br> 
 ## <strong>I'm Rushil</strong> - Web developer, 3rd year college student
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,reactnative,firebase,npm,vite,c,cs,oracle,java,git,linux,bash" />
-  </a>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,reactnative,firebase,c,cs,oracle,java,linux,bash" />
+</p>
+    <h2>Tools/Libraries</h2>
+    <p align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,postman,zustand,authjs,chartjs,npm,bun,vite,git" />
+    </p>
   </a>
 </p>
 
