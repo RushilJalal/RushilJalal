@@ -1,7 +1,7 @@
 # Hey there! 👋 <br> 
 ## <strong>I'm Rushil</strong> - Web/App developer, 3rd year college student
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,reactnative,java,python,c,cs,oracle,bash" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,reactnative,java,python,c,cs,mysql,oracle,bash" />
 </p>
     <h2>Tools/Libraries</h2>
     <p align="center">
