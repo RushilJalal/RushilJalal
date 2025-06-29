@@ -1,5 +1,5 @@
 # Hey there! 👋 <br> 
-## <strong>I'm Rushil</strong> - Web/App developer, 3rd year college student
+## <strong>I'm Rushil</strong> - Software developer, 4th year college student
 <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,nodejs,express,typescript,react,reactnative,expo,android,kotlin,jetpackcompose,java,python,c,cpp,cuda,cs,mysql,postgres,oracle,bash,firebase,postman,zustand,redux,authjs,railway,chartjs,bootstrap,reactbootstrap,docker,vercel,git,metabase,gdevelop,npm,bun,vite,linux,vscode,androidstudio" />
 </p>
