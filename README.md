@@ -1,7 +1,7 @@
 # Hey there! 👋 <br> 
 ## <strong>I'm Rushil</strong> - Software developer, 4th year college student
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,nodejs,express,typescript,react,reactnative,expo,android,kotlin,jetpackcompose,java,python,c,cpp,cuda,cmake,cs,mysql,postgres,oracle,bash,firebase,postman,zustand,redux,authjs,railway,chartjs,bootstrap,reactbootstrap,docker,vercel,git,metabase,gdevelop,npm,bun,vite,linux,vscode,androidstudio" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,s3,ec2,cloudformation,cloudwatch,apigateway,html,css,js,nodejs,express,typescript,react,reactnative,expo,android,jetpackcompose,java,python,c,cuda,cmake,cs,mysql,postgres,oracle,bash,firebase,postman,zustand,redux,authjs,railway,chartjs,bootstrap,reactbootstrap,docker,vercel,git,yaml,metabase,gdevelop,npm,bun,vite,linux,vscode,androidstudio" />
 </p>
   </a>
 </p>
